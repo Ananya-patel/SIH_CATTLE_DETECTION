@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+matplotlib
+numpy
+torch
+sentence-transformers
+transformers
+sentencepiece
+pinecone-client
+pydantic
